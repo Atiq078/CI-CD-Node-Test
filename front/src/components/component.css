@@ -1,0 +1,42 @@
+
+
+.example-title1 {
+  background-color: blanchedalmond;
+  padding: 10px;
+}
+
+.list-group{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  
+.list-group1{
+    max-height: 300px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .table-wrapper {
+    /*width: 700px;*/
+    width: 70%;
+    max-height: 500px;
+    overflow-y: auto;
+    display:inline-block;
+  }
+  .table-earnings {
+    background: #F3F5F6;
+  }
+
+
+
+th,
+td {
+  border: 1px solid black;
+  margin: 0px 0px;
+  padding: 5px 5px;
+}
+
